@@ -290,4 +290,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ and ☕ by [lucas-Brites1](https://github.com/lucas-Brites1)**
+**Made with ❤️ and ☕ by [lucas-Brites1](https://github.com/Lucas-Brites1)**
