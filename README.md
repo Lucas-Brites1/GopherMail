@@ -24,7 +24,7 @@ GopherMail Worker Pool: 100 emails = ~30 seconds  (3-5x faster!)
 ### Installation
 
 ```bash
-go get github.com/lucas-Brites1/GopherMail
+go get github.com/Lucas-Brites1/GopherMail
 ```
 
 ### Basic Usage
