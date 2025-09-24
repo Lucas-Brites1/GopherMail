@@ -493,6 +493,7 @@ func buildMessage(email *IndividualEmail) []byte {
 }
 
 func (ewp *EmailWorkerPool) sendEmail(email *IndividualEmail) error {
+
 	if err := validateEmail(email); err != nil {
 		return fmt.Errorf("validation failed: %w", err)
 	}
